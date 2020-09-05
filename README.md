@@ -3,7 +3,6 @@
 > this is all you need for sequence-labeling task.
 
 ![](./docs/imgs/mrc.jpg)
-![](docs/imgs/bert.png)
 
 
 ## quick start
